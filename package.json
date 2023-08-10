@@ -11,5 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0"
   }
 }
